@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">AnimalPedia</string>
+    <string name="tagline">Menjelajah Hewan Dengan Gembira</string>
+    <string name="mulai">Mulai</string>
+    <string name="title_home">Home</string>
+    <string name="title_about">About</string>
+    <string name="darkmode">Dark Mode</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="continue_reading">Lanjutkan Membaca</string>
+    <string name="title">Mengenal Berbagai Ras Kucing</string>
+    <string name="description">Ayo kita mengenal jenis-jenis kucing yang ada di seluruh penjuru dunia. Karena banyak dan mereka lucu-lucu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_description">AnimalPedia adalah aplikasi edukatif interaktif untuk anak-anak, memberikan informasi menarik tentang berbagai jenis hewan. Belajar tentang hewan menjadi lebih menyenangkan. Jelajahi dan temukan keajaiban dunia hewan bersama AnimalPedia!</string>
+    <string name="scan">Cari Tahu Hewan</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="process">Process</string>
+    <string name="akal">abcdefghijklmn</string>
+
+
+    <string-array name="data_title">
+        <item>Mengenal Berbagai Ras Kucing</item>
+        <item>Singa: Raja Hutan yang Perkasa!</item>
+        <item>Penyakit Kucing dan Pencegahannya</item>
+        <item>Mengapa Lumba-Lumba itu Istimewa?</item>
+        <item>Sapi Teman Peternakan yang Luar Biasa</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dunia pecinta kucing dihiasi dengan berbagai ras kucing yang memikat dengan ciri khasnya masing-masing. Dari Persia yang berbulu panjang dan menggemaskan hingga Maine Coon yang berbadan besar dan gagah, ras-ras kucing ini menawarkan pesona dan keunikan tersendiri.Persia, dengan bulu panjang dan wajah datar yang menggemaskan, merupakan salah satu ras kucing paling populer. Sifat mereka yang tenang dan penyayang menjadikannya pilihan ideal bagi keluarga. Di sisi lain, Maine Coon, raksasa dunia kucing, terkenal dengan bulunya yang tebal dan panjang, serta sifatnya yang ramah dan suka bermain.Masih banyak ras kucing menarik lainnya yang patut dijelajahi, seperti Siam dengan pola warna khasnya, Sphynx yang tidak berbulu, dan Ragdoll yang terkenal dengan sifatnya yang "lembek" saat digendong. Setiap ras memiliki karakteristik dan kebutuhan uniknya sendiri, bagaimana? menarik bukan?</item>
+        <item>Di sabana Afrika, singa mendominasi sebagai "Raja Hutan" dengan kekuatan dan wibawa mereka. Jantan dengan surai lebatnya memimpin kawanan dalam berburu dan menjaga wilayah, sementara auman mereka yang menggelegar berfungsi untuk komunikasi dan intimidasi. Singa tidak hanya predator puncak tetapi juga penjaga keseimbangan ekosistem dengan memburu mangsa yang lemah dan sakit. Mereka dihormati karena keberanian dan kecerdasan mereka, menjadi simbol kekuatan di banyak budaya dan mengingatkan kita akan pentingnya pelestarian alam.</item>
+        <item>Kucing, hewan menggemaskan yang menemani hari-hari kita, ternyata juga rentan terhadap berbagai penyakit. Panleukopenia, rabies, cacingan, dan penyakit kulit adalah beberapa penyakit yang umum menyerang kucing. Pencegahan adalah kunci utama dalam menjaga kesehatan kucing. Vaksinasi, pemberian obat cacing, menjaga kebersihan, memperhatikan pola makan, dan pemeriksaan kesehatan rutin merupakan langkah-langkah penting yang dapat dilakukan.</item>
+        <item>Lumba-lumba, dengan kecerdasan dan keramahannya, selalu memukau manusia. Hewan mamalia laut ini istimewa karena beberapa alasan. Pertama, lumba-lumba memiliki otak yang kompleks, memungkinkan mereka untuk belajar, memecahkan masalah, dan bahkan menggunakan alat. Kemampuan komunikasi mereka pun luar biasa, dengan berbagai macam suara, gerakan tubuh, dan bahasa tubuh yang digunakan untuk berkomunikasi. Lumba-lumba adalah hewan luar biasa yang terus memukau dan menginspirasi manusia. Kecerdasan, sifat sosial, dan kemampuan komunikasinya yang unik menjadikan mereka salah satu makhluk paling istimewa di planet ini. Kita harus terus belajar tentang lumba-lumba dan melindungi mereka dari bahaya.</item>
+        <item>Sapi adalah hewan ternak yang sangat penting, menjadi sumber protein hewani utama melalui daging dan susu yang kaya nutrisi. Selain itu, sapi juga memberikan manfaat lain seperti kulit untuk bahan baku industri fashion dan kotoran sebagai pupuk organik. Dalam ekonomi, peternakan sapi mendukung mata pencaharian di daerah pedesaan, menyediakan lapangan pekerjaan dan menjadi sumber pendapatan bagi peternak. Sapi juga memiliki nilai budaya yang mendalam di berbagai negara, seperti di India dimana sapi dianggap suci. Kesimpulannya, sapi memberikan kontribusi besar dalam aspek pangan, ekonomi, dan budaya. Mendukung peternakan sapi yang berkelanjutan adalah tanggung jawab bersama untuk menjaga kelestarian manfaatnya bagi kehidupan manusia.</item>
+
+    </string-array>
+
+    <integer-array name="data_img">
+        <item>@drawable/article1</item>
+        <item>@drawable/article2</item>
+        <item>@drawable/article3</item>
+        <item>@drawable/article4</item>
+        <item>@drawable/article5</item>
+    </integer-array>
+
+    <integer-array name="data_color">
+        <item>@color/green</item>
+        <item>@color/dark_cream</item>
+        <item>@color/orange</item>
+        <item>@color/green</item>
+        <item>@color/cream</item>
+    </integer-array>
+
+    <string name="wahyu">Wahyu Iskandar S.\n(CC) - C553D4KY0455</string>
+    <string name="hasan">Yusuf Hasan N.\n(CC) - C004D4KY0976</string>
+    <string name="aradea">Aradea Kharisma A. P.\n(ML) - M008D4KX1848</string>
+    <string name="ivan">Dwi Ivan F.\n(ML) - M008D4KY1849</string>
+    <string name="diah">Diah Afia Safitri\n(ML) - M010D4KX2245</string>
+    <string name="ardes">Ardes Zubka Putra\n(MD) - A011D4KY3560</string>
+    <string name="aryan">Aryan Dafi Maulana\n(MD) - A011D4KY3459</string>
+
+    <string-array name="class_labels">
+        <item>horse</item>
+        <item>antelope</item>
+        <item>sandpiper</item>
+        <item>duck</item>
+        <item>penguin</item>
+        <item>goldfish</item>
+        <item>koala</item>
+        <item>squirrel</item>
+        <item>pig</item>
+        <item>badger</item>
+        <item>fly</item>
+        <item>swan</item>
+        <item>ladybugs</item>
+        <item>mouse</item>
+        <item>hippopotamus</item>
+        <item>lobster</item>
+        <item>starfish</item>
+        <item>crow</item>
+        <item>eagle</item>
+        <item>hamster</item>
+        <item>elephant</item>
+        <item>orangutan</item>
+        <item>pigeon</item>
+        <item>otter</item>
+        <item>hyena</item>
+        <item>bee</item>
+        <item>okapi</item>
+        <item>chimpanzee</item>
+        <item>hedgehog</item>
+        <item>goose</item>
+        <item>flamingo</item>
+        <item>lizard</item>
+        <item>snake</item>
+        <item>octopus</item>
+        <item>seal</item>
+        <item>coyote</item>
+        <item>deer</item>
+        <item>goat</item>
+        <item>dragonfly</item>
+        <item>hummingbird</item>
+        <item>cat</item>
+        <item>bat</item>
+        <item>tiger</item>
+        <item>moth</item>
+        <item>cow</item>
+        <item>hornbill</item>
+        <item>jellyfish</item>
+        <item>caterpillar</item>
+        <item>fox</item>
+        <item>cockroach</item>
+        <item>crab</item>
+        <item>rat</item>
+        <item>pelecaniformes</item>
+        <item>wombat</item>
+        <item>leopard</item>
+        <item>turkey</item>
+        <item>raccoon</item>
+        <item>panda</item>
+        <item>bear</item>
+        <item>squid</item>
+        <item>hare</item>
+        <item>zebra</item>
+        <item>boar</item>
+        <item>kangaroo</item>
+        <item>shark</item>
+        <item>parrot</item>
+        <item>wolf</item>
+        <item>oyster</item>
+        <item>dog</item>
+        <item>sparrow</item>
+        <item>porcupine</item>
+        <item>mosquito</item>
+        <item>gorilla</item>
+        <item>beetle</item>
+        <item>donkey</item>
+        <item>bison</item>
+        <item>owl</item>
+        <item>sheep</item>
+        <item>butterfly</item>
+        <item>reindeer</item>
+        <item>whale</item>
+        <item>seahorse</item>
+        <item>dolphin</item>
+        <item>grasshopper</item>
+        <item>lion</item>
+        <item>turtle</item>
+        <item>possum</item>
+        <item>rhinoceros</item>
+        <item>woodpecker</item>
+        <item>ox</item>
+    </string-array>
+
+</resources>
